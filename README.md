@@ -4,7 +4,7 @@
 
 
 # 💫 About Me:
-🔭 I’m currently working on Samaydotcom (a time tokenisation project).<br>👯 I’m looking to collaborate on the ongoing project.<br>🌱 I’m currently learning advance Solidity and Full Stack<br>
+🔭 I’m currently working on Paygent an onchain autopay system.<br>👯 I’m looking to collaborate on the ongoing project.<br>🌱 I’m currently learning advance Solidity and Full Stack<br>
 
 
 ## 🌐 Socials:
